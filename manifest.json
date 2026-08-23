@@ -1,7 +1,7 @@
 {
   "name": "Woodhub",
   "short_name": "Woodhub",
-  "description": "Woodhouse College, with the masks on.",
+  "description": "The ultimate hub for Woodhouse students.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
