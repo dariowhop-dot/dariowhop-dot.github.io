@@ -1,0 +1,13 @@
+{
+  "name": "Woodhub",
+  "short_name": "Woodhub",
+  "description": "Woodhouse College, with the masks on.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12204F",
+  "theme_color": "#12204F",
+  "icons": [
+    { "src": "/icon-1024.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" }
+  ]
+}
